@@ -18,7 +18,7 @@ If you want to know a bit more about my experience and past work within the Hype
 
 ### Connect with Alvaro:
 
-<a href="https://www.linkedin.com/in/alvaropicazohaase](https://www.linkedin.com/in/apicazohaase/"><img src="static/assets/img/LinkedIn.png" alt="https://www.linkedin.com/in/apicazohaase/" width="30" /></a>
+<a href="https://www.linkedin.com/in/alvaropicazohaase"><img src="static/assets/img/LinkedIn.png" width="30"/></a>
 <a href="https://medium.com/@alvaropicazo"><img src="static/assets/img/Medium-new.png"  width="30" /></a>
 <!--
 **alvaropicazo/alvaropicazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
