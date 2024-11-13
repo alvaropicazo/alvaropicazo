@@ -5,7 +5,7 @@ I am Alvaro Picazo Haase, a Software Engineer and Blockchain passionate working 
 
 ## Hyperledger 
 ### Hyperledger Bevel
-- Current Hyperledger Bevel Maintainer and active contributor.
+- Current Hyperledger Bevel Maintainer, Code Owner and active contributor.
 ### Hyperledger Labs
 - Hyperledger Labs Steward
 ### Speaking engagements
