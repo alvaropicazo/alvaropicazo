@@ -16,7 +16,8 @@ I am Alvaro Picazo Haase, a Software Engineer and Blockchain passionate working 
 If you want to know a bit more about my experience and past work within the Hyperledger Organization, here's a [link](https://www.hyperledger.org/blog/developer-showcase-series-alvaro-picazo-haase-blockchain-engineer-accenture) to the Q&A interview made for the Developer Showcase Series of Hyperledger
 
 ### Other published articles
-[Supply Chain Management](https://www.periodistadigital.com/economia/bolsa/20240704/casos-blockchain-supply-chain-management-son-beneficios-noticia-689405009416/)
+[Supply Chain Management](https://www.periodistadigital.com/economia/bolsa/20240704/casos-blockchain-supply-chain-management-son-beneficios-noticia-689405009416/) (In Spanish)
+[Privacy Layer on a Hyperledger Besu network using Hyperledger Bevel](https://www.lfdecentralizedtrust.org/blog/using-hyperledger-bevel-to-add-a-privacy-layer-to-permissioned-besu-networks)
 
 ### Connect with Alvaro:
 
