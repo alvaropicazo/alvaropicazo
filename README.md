@@ -17,6 +17,7 @@ If you want to know a bit more about my experience and past work within the Hype
 
 ### Other published articles
 [Supply Chain Management](https://www.periodistadigital.com/economia/bolsa/20240704/casos-blockchain-supply-chain-management-son-beneficios-noticia-689405009416/) (In Spanish)
+
 [Privacy Layer on a Hyperledger Besu network using Hyperledger Bevel](https://www.lfdecentralizedtrust.org/blog/using-hyperledger-bevel-to-add-a-privacy-layer-to-permissioned-besu-networks)
 
 ### Connect with Alvaro:
