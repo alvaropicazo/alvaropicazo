@@ -1,21 +1,21 @@
-## Meet Alvaro 👋
+# Meet Alvaro 👋
 
 I am Alvaro Picazo Haase, a Software Engineer and Blockchain passionate working currently at Accenture and member of the LF Decentralized Trust Organization.
 
 
-## LF Decentralized Trust (Previously Hyperledger Organization) 
+## LF Decentralized Trust (Previously Hyperledger Organization)
+
 ### Hyperledger Bevel
 - Current Hyperledger Bevel Maintainer, Code Owner and active contributor.
 ### LF Decentralized Trust Labs
 - LF Decentralized Trust Labs Steward
 
-
-
 ### Speaking engagements
 - Webinar about Hyperledger Bevel for the Hyperledger Latin-American community (previously known as blockchain-automation-framework) [Here](https://www.youtube.com/watch?v=Q0mA_SuqJTs)
 
-  
-### Other published articles
+
+
+## Published articles
 If you want to know a bit more about my experience and past work within the Hyperledger Organization, here's a [link](https://www.hyperledger.org/blog/developer-showcase-series-alvaro-picazo-haase-blockchain-engineer-accenture) to a Q&A interview made for the Developer Showcase Series of Hyperledger
 
 [Supply Chain Management](https://www.periodistadigital.com/economia/bolsa/20240704/casos-blockchain-supply-chain-management-son-beneficios-noticia-689405009416/) (In Spanish)
