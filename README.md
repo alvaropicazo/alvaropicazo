@@ -12,6 +12,7 @@ I am Alvaro Picazo Haase, a Software Engineer and Blockchain passionate working 
 
 ### Speaking engagements
 - Webinar about Hyperledger Bevel for the Hyperledger Latin-American community (previously known as blockchain-automation-framework) [Here](https://www.youtube.com/watch?v=Q0mA_SuqJTs)
+- Demo of how to deploy a Besu Network on the cloud using Hyperledger Bevel with privacy enabled [Here](https://www.youtube.com/watch?v=_ngPj5wA6Kk&list=PL0MZ85B_96CFJUzic2ZF9rposfx2hr2rm)
 
 
 
